@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Devesh.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS.
+- 👀 I’m interested in Web Development. I am well versed with front-end (HTML, CSS, React, JS).
+- 🌱 I’m currently learning NodeJS, Express.
+- I would like to explore more domains in near future, like ML and AI, DS.
